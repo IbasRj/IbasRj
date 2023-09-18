@@ -23,7 +23,7 @@ ___
 ```
 "Name": "muhammad basba rodja (ibas)",
 "Age": "16 Years Old",
-"Birthday": "Augustus - 02, 2007"
+"Birthday": "August - 02, 2007"
    
 "Big Thanks To"
 
