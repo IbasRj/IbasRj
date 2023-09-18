@@ -21,32 +21,32 @@ ___
 
 ### [`👇 INTRO MY SELF`]
 ```
-"Name": "RiskiGanz",
-"Age": "15 Years Old",
+"Name": "muhammad basba rodja (ibas)",
+"Age": "16 Years Old",
 "Birthday": "Augustus - 02, 2007"
    
 "Big Thanks To"
 
   "- Allah S.W.T"
-  "- Ortu Gw
-  "- teman" Gw
+  "- Ortu 
+  "- teman" 
 ```
 ___
    
  
   
-![RiskiGanz github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=RiskiRj)
+![IbasRj github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=IbasRj)
 
 <details>
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
-![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiskiRj&theme=great-gatsby)
+![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IbasRj&theme=great-gatsby)
 
-![Github Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiskiRj&theme=monokai)
+![Github Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IbasRj&theme=monokai)
   
   
 <p align="center">
-  <a href="https://github.com/RiskiRj"><img src="https://github-profile-trophy.vercel.app/?username=RiskiRj&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/IbasRj"><img src="https://github-profile-trophy.vercel.app/?username=IbasRj&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
     
     ___
