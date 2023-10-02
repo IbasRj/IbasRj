@@ -10,6 +10,7 @@
 ___
 ```
 ```
+<a href="https://discordapp.com/users/924998950795214898"><img align="center" src="https://discord.c99.nl/widget/theme-3/924998950795214898.png"/></a>
 𝚆𝙰 𝙼𝙴 :
 <a href="https://api.whatsapp.com/send?phone=6287765436873&text=p+,+banh+sv+no+gw:v" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 
