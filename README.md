@@ -29,28 +29,14 @@ ___
    
  
   
-![IbasRj github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=IbasRj)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=IbasRj&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&icon_color=fff&hide_border=false&show_icons=false" /></a>
+</p> 
 
-<details>
-<summary>:bar_chart: Recent Anilist Activity</summary>
-  
-![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IbasRj&theme=great-gatsby)
-
-![Github Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IbasRj&theme=monokai)
-  
-  
-<p align="center">
-  <a href="https://github.com/IbasRj"><img src="https://github-profile-trophy.vercel.app/?username=IbasRj&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
-</p>
-    
-    ___
-
-### [` 📫 Contact & Support Me`](https://api.whatsapp.com/send?phone=6281339888334text=Assalamualaikum+Bang) 
-
-    
-<p align="center">
-<a href="RiskiGaming54@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://api.whatsapp.com/send?phone=6281339888334&text=p+,+banh+sv+no+gw:v" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
+<p align="left">
+  <a href="https://github.com/caliphdev"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IbasRj&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
 </p>
 
-___
+<p align="left">
+<a href="//github.com/IbasRj"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbasRj"></a>
+</p>
