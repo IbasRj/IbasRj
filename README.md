@@ -1,3 +1,4 @@
+<a href="https://discordapp.com/users/924998950795214898"><img align="center" src="https://discord.c99.nl/widget/theme-1/924998950795214898.png"/></a> 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
