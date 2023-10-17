@@ -8,6 +8,10 @@
   <a href="https://discordapp.com/users/924998950795214898"><img align="center" src="https://discord.c99.nl/widget/theme-1/924998950795214898.png"/></a> 
 </p>
 
+<p align="center">
+  <img alig src="./code.gif" />
+</p>
+
 <h3 align="left">Contact with me:</h3>
 <p align="left"><a href="https://instagram.com/riskixd22" target="blank"><img align="center" src="https://storage.caliph.my.id/img/instagram.svg" height="30" width="30" /></a>
 <p align="left"><a href="https://wa.me/6287765436873"><img src="[https://storage.caliph.my.id/img/telegram.png](https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white)" height="30" width="30" /></a>
