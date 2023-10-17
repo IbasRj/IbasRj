@@ -14,8 +14,7 @@
 
 <h3 align="left">Contact with me:</h3>
 <p align="left"><a href="https://instagram.com/riskixd22" target="blank"><img align="center" src="https://storage.caliph.my.id/img/instagram.svg" height="30" width="30" /></a>
-<p align="left"><a href="https://wa.me/6287765436873"><img src="[https://storage.caliph.my.id/img/telegram.png](https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white)" height="30" width="30" /></a>
-
+  
 <p align="left">
   <a href="https://github.com/caliphdev"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IbasRj&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
 </p>
