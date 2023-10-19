@@ -1,42 +1,27 @@
-![My card name](https://cardivo.vercel.app/api?name=IbasRj&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://telegra.ph/file/a132d1f7ce1a9588924a2.jpg&backgroundColor=%23ecf0f1&instagram=riskixd22&github=IbasRj)
-
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
 ```sh
 > profile
 ```
 
-<img align="left" src="img/hisokamorou.png" width="130px"/> 
-
-```csharp
-My Profile
+<img align="left" src="github.jpg" width="130px"/> 
 
 ```csharp
 My Profile
 -------------------------------
-Username: Dika Ardnt.
+name: Ibas R.
 WhoamI: Normal People.
-Telegram: @cak_haho.
-FavouriteAnime: オーバーロード (Overlord).
-Loves: タツマキ (Tatsumaki) (❤️ ω ❤️), Anime 🎮, Manga 🎹.
-Pronouns: He-Him.
+Instagram: @riskixd22.
+FavouriteAnime:ワンピース (One Piece).
+Loves: Anime 🎮, Manga 🎹.
 Location: Planet Kepler-452b.
-FavouriteSong: Official髭男dism - Pretender.
+FavouriteSong: Somebody's Pleasure -Aziz Hedra.
 Hobbies: Watching anime, Read Manga 
-while I am listening music.
 ```
 
 
 <div>
 <br>
-<br>
-<br>
-<br>
-  
-<p align="center">
-<a href="https://discordapp.com/users/924998950795214898"><img align="center" src="https://discord.c99.nl/widget/theme-1/924998950795214898.png"/></a> 
-  </p>
-
 <h3 align="left">Contact with me:</h3>
 <a href="https://instagram.com/riskixd22"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 <a href="https://wa.link/y8hl3m"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
