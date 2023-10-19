@@ -1,5 +1,38 @@
 ![My card name](https://cardivo.vercel.app/api?name=IbasRj&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://telegra.ph/file/a132d1f7ce1a9588924a2.jpg&backgroundColor=%23ecf0f1&instagram=riskixd22&github=IbasRj)
 
+<h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
+
+```sh
+> profile
+```
+
+<img align="left" src="img/hisokamorou.png" width="130px"/> 
+
+```csharp
+My Profile
+
+```csharp
+My Profile
+-------------------------------
+Username: Dika Ardnt.
+WhoamI: Normal People.
+Telegram: @cak_haho.
+FavouriteAnime: オーバーロード (Overlord).
+Loves: タツマキ (Tatsumaki) (❤️ ω ❤️), Anime 🎮, Manga 🎹.
+Pronouns: He-Him.
+Location: Planet Kepler-452b.
+FavouriteSong: Official髭男dism - Pretender.
+Hobbies: Watching anime, Read Manga 
+while I am listening music.
+```
+
+
+<div>
+<br>
+<br>
+<br>
+<br>
+  
 <p align="center">
 <a href="https://discordapp.com/users/924998950795214898"><img align="center" src="https://discord.c99.nl/widget/theme-1/924998950795214898.png"/></a> 
   </p>
