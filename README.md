@@ -8,9 +8,8 @@
   <a href="https://discordapp.com/users/924998950795214898"><img align="center" src="https://discord.c99.nl/widget/theme-1/924998950795214898.png"/></a> 
 </p>
 
-<p align="center">
-  <img alig src="./code.gif" />
-</p>
+![My card name](https://cardivo.vercel.app/api?name=IbasRj&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://telegra.ph/file/a132d1f7ce1a9588924a2.jpg&backgroundColor=%23ecf0f1&instagram=riskixd22&github=IbasRj)
+
 
 <h3 align="left">Contact with me:</h3>
 <p align="left"><a href="https://instagram.com/riskixd22" target="blank"><img align="center" src="https://storage.caliph.my.id/img/instagram.svg" height="30" width="30" /></a>
